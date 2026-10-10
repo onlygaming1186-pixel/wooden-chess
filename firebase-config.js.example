@@ -1,0 +1,9 @@
+// Copy this file to firebase-config.js and paste your project's Web App config.
+// Firebase Console -> Project settings -> Your apps -> Web app config.
+window.WOODEN_CHESS_FIREBASE = {
+  apiKey: "PASTE_API_KEY",
+  authDomain: "YOUR_PROJECT.firebaseapp.com",
+  databaseURL: "https://YOUR_PROJECT-default-rtdb.REGION.firebasedatabase.app",
+  projectId: "YOUR_PROJECT",
+  appId: "PASTE_APP_ID"
+};

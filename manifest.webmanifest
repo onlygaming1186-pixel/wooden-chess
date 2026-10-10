@@ -1,0 +1,1 @@
+{"name":"Wooden Chess","short_name":"Wooden Chess","description":"Classic wooden chess for local and online play.","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#171310","theme_color":"#24170f","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
